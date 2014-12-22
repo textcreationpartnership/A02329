@@ -36,51 +36,57 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The historie of Guicciardin conteining the vvarres of Italie and other partes, continued for many ye
+
+1. TO THE QVEENES MOST EXCELLENT MAIESTIE, OVR MOST REDOVTED, MOST HAPPIE, AND TRVE SOVERAIGNE LADIE ELIZABETH, BY THE grace of God Queene of England, Fraunce, and Ireland, principall defender of the faith, and next vnder God, the onely, abſolute, and full ſupreame head ouer all cauſes Eccleſiaſticall and temporall through her Maieſties dominions: Geffray Fenton prayeth a perpetuall increaſing of the ſpirite of Gods holy feare, and a continuall going on and confirmation of that godly courſe vvherein vvith ſo long peace and happines, her Maieſtie hath gouerned the ſubiects and peoples of her Realmes and ſeuerall iuriſdictions.
+
+1. THE GENERALL CONTENTES OF euery booke through the whole Hiſtorie.
+
 #####Body#####
+THE ARGVMENT OF THE FIRST BOOKE.LODOWYK SFORCE vncle and tutor to Iohn Galeas Duke of Myllan, fearin
+    _ THE FIRST BOOKE OF THE hiſtorie and diſcourſſe of Guicciardin.
 
-1. THE FIRST BOOKE OF THE hiſtorie and diſcourſſe of Guicciardin.
+    _ THE SECOND BOOKE OF THE hiſtorie and diſcourſſe of Guicciardin.
 
-1. THE SECOND BOOKE OF THE hiſtorie and diſcourſſe of Guicciardin.
+    _ THE THIRD BOOKE OF THE hiſtorie and diſcourſſe of Guicciardin.
 
-1. THE THIRD BOOKE OF THE hiſtorie and diſcourſſe of Guicciardin.
+    _ THE FOVRTH BOOKE OF THE hiſtorie and diſcourſſe of Guicciardin.
 
-1. THE FOVRTH BOOKE OF THE hiſtorie and diſcourſſe of Guicciardin.
+    _ THE FYFT BOOKE OF THE hiſtorie and diſcourſſe of Guicciardin.
 
-1. THE FYFT BOOKE OF THE hiſtorie and diſcourſſe of Guicciardin.
+    _ THE SYXT BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
 
-1. THE SYXT BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
+    _ THE SEVENTH BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
 
-1. THE SEVENTH BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
+    _ THE EIGHT BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
 
-1. THE EIGHT BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
+    _ THE NINTH BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
 
-1. THE NINTH BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
+    _ THE TENTH BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
 
-1. THE TENTH BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
+    _ THE ELEVENTH BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
 
-1. THE ELEVENTH BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
+    _ THE TVVELFTH BOOKE OF THE historie and diſcourſe of Guicciardin.
 
-1. THE TVVELFTH BOOKE OF THE historie and diſcourſe of Guicciardin.
+    _ THE THIRTEENTH BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
 
-1. THE THIRTEENTH BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
+    _ THE FOVRETEENTH BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
 
-1. THE FOVRETEENTH BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
+    _ THE FYFTEENTH BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
 
-1. THE FYFTEENTH BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
+    _ THE SYXTEENTH BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
 
-1. THE SYXTEENTH BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
+    _ THE SEVENTEENTH BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
 
-1. THE SEVENTEENTH BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
+    _ THE EIGHTEENTH BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
 
-1. THE EIGHTEENTH BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
+    _ THE NYNTEENTH BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
 
-1. THE NYNTEENTH BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
-
-1. THE TVVENTEETH BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
+    _ THE TVVENTEETH BOOKE OF THE hiſtorie and diſcourſe of Guicciardin.
 
 #####Back#####
-The historie of Guicciardin conteining the vvarres of Italie and other partes, continued for many ye
+
+1. A TABLE OF THE MOST PRINCIPALL AND GENERALL MATTERS CONTEYNED in the hiſtorie, digeſted according to the order Alphabit.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
